@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: green;
+}
+#message-generator{
+    color: blue;
+}
+button {
+    color: aquamarine;
+    text-decoration: double;
+    text-align: center;
+    background-color: grey;
+    border-radius: 10px;
+}
